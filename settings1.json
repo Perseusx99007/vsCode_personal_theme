@@ -18,4 +18,5 @@
     "statusBarItem.hoverForeground": "#ff0000",
     "focusBorder": "#505050",
     "tab.activeBorderTop": "#ff0000",
+    "progressBar.background": "#ff0000",
 }
